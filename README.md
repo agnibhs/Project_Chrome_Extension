@@ -29,3 +29,6 @@ One can aslo edit the phrase and write their own phrase.
 9. Click on that ***Alarm Clock icon*** and done.
     Your alarm clock is ready to do it's work.
     Set your alarm time, alarm tone and voice.
+# Installation Video
+**====================**
+https://www.loom.com/share/ad6ac1da039e409aa4e4f5e7bb7ec6f8
