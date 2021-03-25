@@ -21,7 +21,7 @@ One can aslo edit the phrase and write their own phrase.
 5. In the Extensions page at top right corner there is a option called ***Developer mode***
     Turn it on.
 6. From top left corner click on ***Load unpacked***.
-    Then you to choose that extracted zip folder.
+    Then you have to choose that extracted zip folder.
     And press ***select Folder***.
 7. Then you can find that extension is added in that page.
 8. From top right corner click on the ***Extensions icon***
