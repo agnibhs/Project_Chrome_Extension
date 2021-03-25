@@ -11,7 +11,7 @@ One can aslo edit the phrase and write their own phrase.
 **====================**
 
 1. Open the **link** given below.
-   *git@github.com:agnibhs/Project_Chrome_Extension.git*
+   *https://github.com/agnibhs/Project_Chrome_Extension.git*
 2. Then click on ***Code*** below there click on ***Download ZIP***.
     It will download a zipe file.
 3. ***Extract*** that ZIP in a specific folder.
